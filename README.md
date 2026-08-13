@@ -1,7 +1,6 @@
 # 객체지향 정보
 ## 파이썬과 c++
 
----
 
 # 🛠️ Multi-Utility Project: Calculator & Book Management System
 
